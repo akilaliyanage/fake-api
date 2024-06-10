@@ -13,35 +13,11 @@
                         "devices": [
                             {
                                 "name": "temp 1 sensor",
-                                "eui": "12312434e45"
-                            },
-                            {
-                                "name": "temp 1 sensor",
-                                "eui": "12312434e45"
-                            },
-                            {
-                                "name": "temp 1 sensor",
-                                "eui": "12312434e45"
+                                "eui": "24e124715d485828"
                             },
                             {
                                 "name": "temp 2 sensor",
-                                "eui": "12312434e48"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e49"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e50"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e51"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e52"
+                                "eui": "24e124785e011756"
                             }
                         ]
                     },
@@ -50,7 +26,7 @@
                         "devices": [
                             {
                                 "name": "temp 2 sensor",
-                                "eui": "12312434e52"
+                                "eui": "24e124785e011756"
                             }
                         ]
                     }
