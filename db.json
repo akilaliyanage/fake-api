@@ -1,14 +1,60 @@
 {
     "success": true,
     "data": {
-        "zoneId": "85dedae3-76ef-495d-878e-b5faf23b65f3",
-        "zoneName": "ward B",
         "siteId": "56662e22-5019-44c6-a4a7-bf6ded3b15d0",
         "siteName": "10fit-searcy",
-        "deviceEUIs": [
+        "zones": [
             {
-                "label" : "All In One Sensor",
-                "value" : "8c31dec7-b384-4411-af27-f25431ab2000"
+                "id": "85dedae3-76ef-495d-878e-b5faf23b65f3",
+                "name": "ward B",
+                "attributes": [
+                    {
+                        "attributeName": "TEMPERATURE",
+                        "devices": [
+                            {
+                                "name": "temp 1 sensor",
+                                "eui": "12312434e45"
+                            },
+                            {
+                                "name": "temp 1 sensor",
+                                "eui": "12312434e45"
+                            },
+                            {
+                                "name": "temp 1 sensor",
+                                "eui": "12312434e45"
+                            },
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e48"
+                            },
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e49"
+                            },
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e50"
+                            },
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e51"
+                            },
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e52"
+                            }
+                        ]
+                    },
+                    {
+                        "attributeName": "HUMIDITY",
+                        "devices": [
+                            {
+                                "name": "temp 2 sensor",
+                                "eui": "12312434e52"
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
