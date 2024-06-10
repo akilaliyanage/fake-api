@@ -12,45 +12,7 @@
                         "attributeName": "TEMPERATURE",
                         "devices": [
                             {
-                                "name": "temp 1 sensor",
-                                "eui": "12312434e45"
-                            },
-                            {
-                                "name": "temp 1 sensor",
-                                "eui": "12312434e45"
-                            },
-                            {
-                                "name": "temp 1 sensor",
-                                "eui": "12312434e45"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e48"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e49"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e50"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e51"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e52"
-                            }
-                        ]
-                    },
-                    {
-                        "attributeName": "HUMIDITY",
-                        "devices": [
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "12312434e52"
+                                "name": "temp 1 sensor : 12312434e45"
                             }
                         ]
                     }
