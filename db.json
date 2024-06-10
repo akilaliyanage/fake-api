@@ -11,9 +11,9 @@
                     {
                         "attributeName": "TEMPERATURE",
                         "devices": [
-                            {
-                                "name": "temp 1 sensor : 12312434e45"
-                            }
+                            "temp 1 sensor : 12312434e45",
+                            "temp 2 sensor : 12312434e45",
+                            "temp 3 sensor : 12312434e45"
                         ]
                     }
                 ]
