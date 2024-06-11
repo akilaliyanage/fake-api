@@ -1,37 +1,77 @@
 {
     "success": true,
     "data": {
-        "siteId": "56662e22-5019-44c6-a4a7-bf6ded3b15d0",
-        "siteName": "10fit-searcy",
-        "zones": [
+      "siteId": "56662e22-5019-44c6-a4a7-bf6ded3b15d0",
+      "siteName": "10fit-searcy",
+      "zones": [
+        {
+          "id": "85dedae3-76ef-495d-878e-b5faf23b65f3",
+          "name": "ward B",
+          "attributes": [
             {
-                "id": "85dedae3-76ef-495d-878e-b5faf23b65f3",
-                "name": "ward B",
-                "attributes": [
-                    {
-                        "attributeName": "TEMPERATURE",
-                        "devices": [
-                            {
-                                "name": "temp 1 sensor",
-                                "eui": "24e124715d485828"
-                            },
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "24e124785e011756"
-                            }
-                        ]
-                    },
-                    {
-                        "attributeName": "HUMIDITY",
-                        "devices": [
-                            {
-                                "name": "temp 2 sensor",
-                                "eui": "24e124785e011756"
-                            }
-                        ]
-                    }
-                ]
+              "attributeName": "TEMPERATURE",
+              "devices": [
+                {
+                  "name": "temp 1 sensor",
+                  "eui": "12312434e45"
+                },
+                {
+                  "name": "temp 1 sensor",
+                  "eui": "12312434e45"
+                },
+                {
+                  "name": "temp 1 sensor",
+                  "eui": "12312434e45"
+                },
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e48"
+                },
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e49"
+                },
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e50"
+                },
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e51"
+                },
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e52"
+                },
+                {
+                  "name": "all in one sensor 1",
+                  "eui": "1231d345e56"
+                },
+                {
+                  "name": "all in one sensor 23",
+                  "eui": "123d4453455"
+                }
+              ]
+            },
+            {
+              "attributeName": "HUMIDITY",
+              "devices": [
+                {
+                  "name": "temp 2 sensor",
+                  "eui": "12312434e52"
+                },
+                {
+                  "name": "all in one sensor 1",
+                  "eui": "1231d345e56"
+                },
+                {
+                  "name": "all in one sensor 23",
+                  "eui": "123d4453455"
+                }
+              ]
             }
-        ]
+          ]
+        }
+      ]
     }
-}
+  }
