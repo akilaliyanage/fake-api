@@ -24,8 +24,12 @@
                     "eui": "24e124785e011751"
                 },
                 {
-                    "name": "2 in one sensor 2",
+                    "name": "2 in one sensor 3",
                     "eui": "24e124785e011651"
+                },
+                {
+                    "name": "2 in one sensor 4",
+                    "eui": "24e124785e011750"
                 }
               ]
             },
@@ -41,8 +45,12 @@
                     "eui": "24e124785e011751"
                 },
                 {
-                    "name": "2 in one sensor 2",
+                    "name": "2 in one sensor 3",
                     "eui": "24e124785e011651"
+                },
+                {
+                    "name": "2 in one sensor 4",
+                    "eui": "24e124785e011750"
                 }
               ]
             }
