@@ -12,44 +12,12 @@
               "attributeName": "TEMPERATURE",
               "devices": [
                 {
-                  "name": "temp 1 sensor",
-                  "eui": "12312434e45"
+                  "name": "smart thermostat 1",
+                  "eui": "24e124715d413581"
                 },
                 {
-                  "name": "temp 1 sensor",
-                  "eui": "12312434e45"
-                },
-                {
-                  "name": "temp 1 sensor",
-                  "eui": "12312434e45"
-                },
-                {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e48"
-                },
-                {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e49"
-                },
-                {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e50"
-                },
-                {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e51"
-                },
-                {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e52"
-                },
-                {
-                  "name": "all in one sensor 1",
-                  "eui": "1231d345e56"
-                },
-                {
-                  "name": "all in one sensor 23",
-                  "eui": "123d4453455"
+                  "name": "2 in one sensor",
+                  "eui": "24e124785e011756"
                 }
               ]
             },
@@ -57,16 +25,8 @@
               "attributeName": "HUMIDITY",
               "devices": [
                 {
-                  "name": "temp 2 sensor",
-                  "eui": "12312434e52"
-                },
-                {
-                  "name": "all in one sensor 1",
-                  "eui": "1231d345e56"
-                },
-                {
-                  "name": "all in one sensor 23",
-                  "eui": "123d4453455"
+                    "name": "2 in one sensor",
+                    "eui": "24e124785e011756"
                 }
               ]
             }
